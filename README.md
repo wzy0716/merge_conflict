@@ -1,2 +1,2 @@
 # merge_conflict
-Solving merge conflicts is easy!
+Solving merge conflicts is so hard!
